@@ -1,2 +1,2 @@
-# Curso_JavaScript
- Arquivos do curso de JavaScript.
+# Estudo_JavaScript
+ Arquivos de estudo sobre JavaScript.
